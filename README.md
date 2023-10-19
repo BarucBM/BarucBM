@@ -1,4 +1,4 @@
-  <h1>Olá, me chamo Baruc B. Moreira 👋</h1>
+  <h2>Olá, me chamo Baruc B. Moreira 👋</h2>
   <div align="center" style="display: inline_block">
       <img
         align="center"
@@ -34,9 +34,9 @@
         width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" 
          />   
-  </div>
+  </div><br>
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
+💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]  
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas @ [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br/)
 
