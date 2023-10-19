@@ -47,16 +47,15 @@ Eu estou estudando... 🧩
 <img src="https://img.shields.io/badge/Angular-red?logo=angular" target="_blank">
 <img src="https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=f5f5f5" target="_blank">
 </div> 
-
+<br>
 🔎 Também sou curioso sobre [Temas que você gosta]
 
 ✒️ No meu tempo livre eu gosto de jogar futebol, musculação, viajar e trabalhar em alguns projetos pessoais ;
 
 <h3> 🌐 Redes Sociais: </h3>
 <a href="https://www.linkedin.com/in/barucboracinimoreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<br></br>
-
 <div> 
+<br>
 Eu já trabalhei com... 🔧
   
 Tecnologias e Ferramentas
@@ -69,8 +68,7 @@ DDS Cubos Academy DBE Cubos Academy
 
 GitHub Stats ⚡
  
-Entre em contato comigo! 📭
-Esse template foi feito por Cubos Academy! ✨
+Entre em contato comigo! 📭✨
 </div>
 <!--
 **BarucBM/BarucBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
