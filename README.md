@@ -38,20 +38,21 @@
 
 💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
 
-🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas @ [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br/)
+🎓 Cursando Análise e Desenvolvimento de Sistemas @ [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br/)
 
 👩‍💻 Atualmente eu trabalho como Field Service Technician @ [Krones do Brasil LTDA.](https://www.krones.com/br-pt/index.php)
 
 🔎 Também sou curioso sobre [Temas que você gosta]
 
-✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
+✒️ No meu tempo livre eu gosto de jogar futebol, musculação, viajar e trabalhar em alguns projetos pessoais ;
 
-📚 Lendo: [Livro que está lendo atualmente]
+<h3> 🌐 Redes Sociais: <br></h3>
+
+<a href="https://www.linkedin.com/in/barucboracinimoreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 Eu já trabalhei com... 🔧
 Tecnologias e Ferramentas
 
-HTML5 CSS3 JavaScript React NodeJS TypeScript Postgres Git GitHub Figma VS Code
 
 Eu estou estudando... 🧩
 React NodeJS Vue.js Java Next JS
