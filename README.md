@@ -33,12 +33,22 @@
         height="30"
         width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" 
-         />   
+         />
+               <img 
+        align="center"
+        alt="Ally-Js"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+         />  
   </div><br>
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]  
+💻 Sou um iniciante na área de programação em busca de crescimento pessoal e profissional, para poder trabalhar no que eu amo.
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas @ [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br/)
+
+Cursos realizados 🤓
+Bootcamp FullStack (Java, Angular) - Santander
 
 👩‍💻 Atualmente eu trabalho como Field Service Technician @ [Krones do Brasil LTDA.](https://www.krones.com/br-pt/index.php)
 
@@ -46,9 +56,9 @@ Eu estou estudando... 🧩
 <div  style="display: inline_block">
 <img src="https://img.shields.io/badge/Angular-red?logo=angular" target="_blank">
 <img src="https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=f5f5f5" target="_blank">
+<img src="https://img.shields.io/badge/Java-orange?logo=java" target="_blank">
 </div> 
 <br>
-🔎 Também sou curioso sobre [Temas que você gosta]
 
 ✒️ No meu tempo livre eu gosto de jogar futebol, musculação, viajar e trabalhar em alguns projetos pessoais ;
 
@@ -56,17 +66,7 @@ Eu estou estudando... 🧩
 <a href="https://www.linkedin.com/in/barucboracinimoreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div> 
 <br>
-Eu já trabalhei com... 🔧
-  
-Tecnologias e Ferramentas
 
-
-
-
-Cursos realizados 🤓
-DDS Cubos Academy DBE Cubos Academy
-
-GitHub Stats ⚡
  
 Entre em contato comigo! 📭✨
 </div>
