@@ -47,7 +47,7 @@
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas @ [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br/)
 
-Cursos realizados 🤓
+Cursos realizados na área 🤓 
 Bootcamp FullStack (Java, Angular) - Santander
 
 👩‍💻 Atualmente eu trabalho como Field Service Technician @ [Krones do Brasil LTDA.](https://www.krones.com/br-pt/index.php)
@@ -55,6 +55,7 @@ Bootcamp FullStack (Java, Angular) - Santander
 Eu estou estudando... 🧩
 <div  style="display: inline_block">
 <img src="https://img.shields.io/badge/Angular-red?logo=angular" target="_blank">
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=f5f5f5" target="_blank">
 <img src="https://img.shields.io/badge/Java-orange?logo=java" target="_blank">
 </div> 
