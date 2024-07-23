@@ -54,10 +54,10 @@ Bootcamp FullStack (Java, Angular) - Santander
 
 Eu estou estudando... 🧩
 <div  style="display: inline_block">
-<img src="https://img.shields.io/badge/Angular-red?logo=angular" target="_blank">
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=f5f5f5" target="_blank">
-<img src="https://img.shields.io/badge/Java-orange?logo=java" target="_blank">
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" target="_blank" >
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank">
 </div> 
 <br>
 
